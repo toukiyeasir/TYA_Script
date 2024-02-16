@@ -121,7 +121,7 @@ View your MAC faster
 
 ```
 cd
-git clone https://github.com/toukiyeasir/TYA_Script.git
+git clone https://github.com/toukiyeasir/TYA_script.git
 cd TYA_script
 chmod +x install.sh
 ./install.sh
